@@ -1,0 +1,181 @@
+{
+  "onboarding": {
+    "welcome": {
+      "headline": "Ton dos te fait souffrir.\nOn va régler ça.",
+      "subtext": "3 minutes par jour. Pas d'excuses.",
+      "cta": "Commencer"
+    },
+    "painZones": {
+      "title": "Où as-tu mal ?",
+      "subtitle": "Sélectionne toutes les zones concernées",
+      "neck": "Nuque",
+      "upperBack": "Dos supérieur",
+      "shoulders": "Épaules",
+      "lowerBack": "Lombaires",
+      "cta": "Continuer",
+      "error": "Sélectionne au moins une zone"
+    },
+    "painLevel": {
+      "title": "À quel point as-tu mal ?",
+      "subtitle": "C'est ton point de départ. On va suivre tes progrès depuis là.",
+      "cta": "Continuer",
+      "emojis": ["😊", "🙂", "😐", "😕", "😣", "😖", "😫", "😤", "😡", "🤯"]
+    },
+    "timePreference": {
+      "title": "Combien de temps peux-tu t'engager ?",
+      "subtitle": "Les deux programmes fonctionnent. Choisis ce qui convient à ta journée.",
+      "option3": "3 minutes",
+      "option3desc": "3 exercices · Rapide et efficace",
+      "option5": "5 minutes",
+      "option5desc": "3 exercices · Étirements plus profonds",
+      "cta": "Continuer"
+    },
+    "notifications": {
+      "title": "Quand veux-tu t'étirer ?",
+      "subtitle": "On te rappellera chaque jour à cette heure.",
+      "addLunch": "Me rappeler aussi à midi (13h00)",
+      "addEvening": "Me rappeler aussi le soir (21h00)",
+      "cta": "Définir le rappel",
+      "skip": "Passer pour l'instant"
+    },
+    "commit": {
+      "title": "Engage-toi.",
+      "disclaimer": "PostureFix ne remplace pas un avis médical. Consultez un professionnel de santé avant de commencer tout programme d'exercices. En cas de douleur intense ou chronique, arrêtez immédiatement et consultez un médecin.",
+      "commitText": "Je m'engage à prendre soin de mon dos chaque jour.",
+      "cta": "Je m'engage"
+    }
+  },
+  "home": {
+    "greeting": "Jour {{count}}",
+    "greetingFire": "🔥",
+    "noStreak": "Jour 1",
+    "routineTitle": "Routine du jour",
+    "startCta": "Commencer ma routine",
+    "completedTitle": "Routine terminée ✓",
+    "completedSubtext": "Reviens demain.",
+    "missedBanner": "Tu as raté hier. Ton dos n'attend pas.",
+    "painTrend": "Évolution de la douleur (7 jours)",
+    "notStarted": "Pas commencé"
+  },
+  "routine": {
+    "exercise": "Exercice {{current}} sur {{total}}",
+    "pause": "Pause",
+    "pauseTitle": "En pause",
+    "pauseMessage": "Tu prends une pause ?",
+    "resumeCta": "Reprendre",
+    "quitCta": "Abandonner la routine",
+    "restMessage": "Repos. Respire profondément.",
+    "restSeconds": "secondes",
+    "givingUp": "Tu abandonnes ?",
+    "next": "Exercice suivant",
+    "complete": "Terminé"
+  },
+  "painCheck": {
+    "title": "Comment va ton dos maintenant ?",
+    "subtitle": "Évalue ta douleur après la routine",
+    "cta": "Continuer"
+  },
+  "complete": {
+    "title": "Routine terminée ✓",
+    "streak": "🔥 {{count}} jours d'affilée",
+    "improved": "Ton dos s'améliore. Continue.",
+    "same": "La régularité, c'est le progrès. À demain.",
+    "worse": "La douleur varie. Continue à te montrer.",
+    "share": "Partager",
+    "done": "Fermer"
+  },
+  "progress": {
+    "title": "Tes progrès",
+    "painChart": "Évolution de la douleur",
+    "painReduced": "Douleur réduite de {{percent}}% depuis le début",
+    "noPainData": "Complète des routines pour voir ton évolution",
+    "streak": "Série",
+    "currentStreak": "Actuelle",
+    "longestStreak": "Record",
+    "stats": "Statistiques",
+    "totalSessions": "Séances totales",
+    "totalMinutes": "Minutes étirées",
+    "backScore": "Score de santé du dos",
+    "backScoreDesc": "Basé sur la régularité et l'amélioration de la douleur",
+    "days": "jours"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "notifications": "Notifications",
+    "dailyReminder": "Rappel quotidien",
+    "lunchReminder": "Rappel du midi (13h00)",
+    "eveningReminder": "Rappel du soir (21h00)",
+    "strictMode": "Mode strict",
+    "strictModeDesc": "Rappels plus fréquents avec un ton ferme",
+    "strictModePremium": "Fonctionnalité premium",
+    "preferences": "Préférences",
+    "sounds": "Effets sonores",
+    "haptics": "Retour haptique",
+    "language": "Langue",
+    "painZones": "Zones douloureuses",
+    "subscription": "Abonnement",
+    "manageSub": "Gérer l'abonnement",
+    "about": "À propos",
+    "disclaimer": "Avertissement médical",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "rateApp": "Noter PostureFix",
+    "shareApp": "Partager avec un ami",
+    "version": "Version {{version}}"
+  },
+  "paywall": {
+    "title": "Ne perds pas ton progrès.",
+    "progressLabel": "Douleur réduite de {{percent}}% en {{days}} jours",
+    "streakLabel": "Ta série de {{streak}} jours",
+    "featureTitle": "Tout ce qu'il te faut pour soigner ton dos",
+    "features": [
+      "Routines quotidiennes illimitées",
+      "Programme personnalisé évolutif",
+      "Analyses complètes des progrès",
+      "Rappels en mode strict",
+      "Routines matin + soir",
+      "Progression par phases"
+    ],
+    "weeklyLabel": "Hebdomadaire",
+    "monthlyLabel": "Mensuel",
+    "annualLabel": "Annuel",
+    "annualSave": "Économise 58%",
+    "cta": "Continuer à guérir",
+    "cancel": "Annule à tout moment",
+    "restore": "Restaurer l'achat",
+    "free": "Gratuit",
+    "freeFeatures": ["5 jours d'accès complet", "Suivi de douleur basique", "Notifications standard"]
+  },
+  "notifications": {
+    "dailyTitle": "C'est l'heure.",
+    "dailyBody": "3 minutes pour ton dos.",
+    "missedTitle": "Tu n'as toujours pas fait ta routine.",
+    "missedBody": "Ton dos attend.",
+    "endOfDayTitle": "Dernière chance.",
+    "endOfDayBody": "Ton dos ne va pas s'améliorer tout seul.",
+    "streakLostTitle": "Tu as perdu ta série.",
+    "streakLostBody": "Tu avais {{count}} jours. Recommence aujourd'hui.",
+    "milestoneTitle": "🔥 {{count}} jours !",
+    "milestoneBody": "Ton dos te remercie.",
+    "reengageTitle": "Ça fait {{count}} jours.",
+    "reengageBody": "Ton dos empire pendant que tu attends."
+  },
+  "disclaimer": {
+    "title": "Avertissement médical",
+    "text": "PostureFix ne remplace pas un avis médical. Consultez un professionnel de santé avant de commencer tout programme d'exercices. En cas de douleur intense ou chronique, arrêtez immédiatement et consultez un médecin."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "ok": "OK",
+    "cancel": "Annuler",
+    "back": "Retour",
+    "next": "Suivant",
+    "skip": "Passer",
+    "save": "Enregistrer",
+    "done": "Terminé",
+    "premium": "Premium",
+    "upgrade": "Passer premium"
+  }
+}

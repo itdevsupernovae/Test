@@ -1,0 +1,342 @@
+[
+  {
+    "id": "neck-side-stretch",
+    "name": { "fr": "Étirement latéral du cou", "en": "Neck Side Stretch" },
+    "description": {
+      "fr": "Penche doucement la tête vers l'épaule droite, puis gauche. Maintiens 15 secondes de chaque côté.",
+      "en": "Gently tilt your head toward your right shoulder, then left. Hold 15 seconds each side."
+    },
+    "tips": {
+      "fr": "Ne force pas. Laisse le poids de la tête faire le travail.",
+      "en": "Don't force it. Let the weight of your head do the work."
+    },
+    "duration_seconds": 30,
+    "target_zones": ["neck"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "neck-side-stretch.json"
+  },
+  {
+    "id": "chin-tucks",
+    "name": { "fr": "Rentrée du menton", "en": "Chin Tucks" },
+    "description": {
+      "fr": "Rentre le menton vers la gorge comme pour faire un double menton. Maintiens 3 secondes, répète.",
+      "en": "Pull your chin straight back toward your throat. Hold 3 seconds, repeat."
+    },
+    "tips": {
+      "fr": "Imagine qu'un fil tire l'arrière de ta tête vers le haut.",
+      "en": "Imagine a string pulling the back of your head upward."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["neck"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "chin-tucks.json"
+  },
+  {
+    "id": "neck-rotation",
+    "name": { "fr": "Rotation du cou", "en": "Neck Rotation" },
+    "description": {
+      "fr": "Tourne lentement la tête à droite puis à gauche. Maintiens 10 secondes de chaque côté.",
+      "en": "Slowly turn your head to the right, then to the left. Hold 10 seconds each side."
+    },
+    "tips": {
+      "fr": "Mouvement lent et contrôlé. Jamais de rotation complète à 360°.",
+      "en": "Slow and controlled. Never do full 360° rotations."
+    },
+    "duration_seconds": 30,
+    "target_zones": ["neck"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "neck-rotation.json"
+  },
+  {
+    "id": "upper-trapezius-stretch",
+    "name": { "fr": "Étirement du trapèze supérieur", "en": "Upper Trapezius Stretch" },
+    "description": {
+      "fr": "Penche la tête vers l'épaule droite et place la main droite sur la tête pour augmenter l'étirement. Maintiens 20 secondes.",
+      "en": "Tilt your head to your right shoulder and place your right hand on your head to deepen the stretch. Hold 20 seconds."
+    },
+    "tips": {
+      "fr": "Garde l'épaule opposée basse et détendue.",
+      "en": "Keep the opposite shoulder low and relaxed."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["neck", "shoulders"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "upper-trapezius-stretch.json"
+  },
+  {
+    "id": "neck-flexion-extension",
+    "name": { "fr": "Flexion/extension du cou", "en": "Neck Flexion & Extension" },
+    "description": {
+      "fr": "Baisse doucement le menton vers la poitrine, puis lève doucement le regard vers le plafond. Alterne lentement.",
+      "en": "Gently lower your chin to your chest, then slowly look up toward the ceiling. Alternate slowly."
+    },
+    "tips": {
+      "fr": "N'étire jamais le cou en arrière trop loin si tu as des cervicalgies.",
+      "en": "Don't extend your neck too far back if you have cervical pain."
+    },
+    "duration_seconds": 30,
+    "target_zones": ["neck"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "neck-flexion-extension.json"
+  },
+  {
+    "id": "shoulder-rolls",
+    "name": { "fr": "Roulements des épaules", "en": "Shoulder Rolls" },
+    "description": {
+      "fr": "Fais des cercles avec les épaules : 10 fois vers l'avant, 10 fois vers l'arrière.",
+      "en": "Roll your shoulders in circles: 10 times forward, 10 times backward."
+    },
+    "tips": {
+      "fr": "Fais des grands cercles, vraiment amplifiés.",
+      "en": "Make big, exaggerated circles."
+    },
+    "duration_seconds": 30,
+    "target_zones": ["shoulders"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "shoulder-rolls.json"
+  },
+  {
+    "id": "cross-body-shoulder",
+    "name": { "fr": "Étirement épaule croisé", "en": "Cross-Body Shoulder Stretch" },
+    "description": {
+      "fr": "Tire le bras droit à travers la poitrine avec le bras gauche. Maintiens 20 secondes. Change de côté.",
+      "en": "Pull your right arm across your chest with your left arm. Hold 20 seconds. Switch sides."
+    },
+    "tips": {
+      "fr": "Garde l'épaule basse, ne la monte pas vers l'oreille.",
+      "en": "Keep your shoulder down, don't shrug it up to your ear."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["shoulders"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "cross-body-shoulder.json"
+  },
+  {
+    "id": "doorway-chest-stretch",
+    "name": { "fr": "Étirement pectoraux (embrasure)", "en": "Doorway Chest Stretch" },
+    "description": {
+      "fr": "Place les avant-bras sur un cadre de porte, penche-toi doucement vers l'avant. Maintiens 30 secondes.",
+      "en": "Place your forearms on a doorframe, gently lean forward. Hold 30 seconds."
+    },
+    "tips": {
+      "fr": "Tu dois sentir l'étirement à l'avant de la poitrine, pas de douleur dans les épaules.",
+      "en": "You should feel the stretch in your chest, not pain in your shoulders."
+    },
+    "duration_seconds": 60,
+    "target_zones": ["shoulders", "upper_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "doorway-chest-stretch.json"
+  },
+  {
+    "id": "shoulder-blade-squeezes",
+    "name": { "fr": "Serrage des omoplates", "en": "Shoulder Blade Squeezes" },
+    "description": {
+      "fr": "Serre les omoplates ensemble comme si tu tenais un crayon entre elles. Maintiens 5 secondes, répète 8 fois.",
+      "en": "Squeeze your shoulder blades together as if holding a pencil between them. Hold 5 seconds, repeat 8 times."
+    },
+    "tips": {
+      "fr": "Garde les épaules basses. Ne hausse pas les épaules.",
+      "en": "Keep your shoulders down. Don't shrug."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["shoulders", "upper_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "shoulder-blade-squeezes.json"
+  },
+  {
+    "id": "arm-circles",
+    "name": { "fr": "Cercles de bras", "en": "Arm Circles" },
+    "description": {
+      "fr": "Étends les bras sur les côtés et fais des petits cercles vers l'avant pendant 15 secondes, puis vers l'arrière.",
+      "en": "Extend your arms to the sides and make small forward circles for 15 seconds, then backward."
+    },
+    "tips": {
+      "fr": "Commence par de petits cercles et augmente progressivement.",
+      "en": "Start with small circles and gradually increase the size."
+    },
+    "duration_seconds": 30,
+    "target_zones": ["shoulders"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "arm-circles.json"
+  },
+  {
+    "id": "cat-cow",
+    "name": { "fr": "Chat-vache", "en": "Cat-Cow Stretch" },
+    "description": {
+      "fr": "À quatre pattes : expire en arrondissant le dos vers le plafond (chat), inspire en creusant le dos (vache). Alterne lentement.",
+      "en": "On all fours: exhale rounding your back up (cat), inhale arching it down (cow). Alternate slowly."
+    },
+    "tips": {
+      "fr": "Synchronise le mouvement avec ta respiration.",
+      "en": "Sync the movement with your breath."
+    },
+    "duration_seconds": 60,
+    "target_zones": ["upper_back", "lower_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "cat-cow.json"
+  },
+  {
+    "id": "thoracic-rotation",
+    "name": { "fr": "Rotation thoracique", "en": "Thoracic Rotation" },
+    "description": {
+      "fr": "Assis sur une chaise, croise les bras sur la poitrine et tourne lentement le buste à droite puis à gauche.",
+      "en": "Sitting in a chair, cross your arms over your chest and slowly rotate your torso right then left."
+    },
+    "tips": {
+      "fr": "Le mouvement vient du milieu du dos, pas des hanches.",
+      "en": "The movement comes from your mid-back, not your hips."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["upper_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "thoracic-rotation.json"
+  },
+  {
+    "id": "thread-needle",
+    "name": { "fr": "Fil de l'aiguille", "en": "Thread the Needle" },
+    "description": {
+      "fr": "À quatre pattes, glisse le bras droit sous le corps vers la gauche, en posant l'épaule au sol. Maintiens 20 secondes. Change de côté.",
+      "en": "On all fours, slide your right arm under your body to the left, resting your shoulder on the floor. Hold 20 seconds. Switch."
+    },
+    "tips": {
+      "fr": "La hanche reste levée, seule l'épaule et le bras descendent.",
+      "en": "Keep your hips raised—only your shoulder and arm go down."
+    },
+    "duration_seconds": 60,
+    "target_zones": ["upper_back", "shoulders"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "thread-needle.json"
+  },
+  {
+    "id": "seated-spinal-twist",
+    "name": { "fr": "Torsion vertébrale assise", "en": "Seated Spinal Twist" },
+    "description": {
+      "fr": "Assis sur une chaise, torse droit, tourne-toi vers la droite en saisissant le dossier. Maintiens 20 secondes. Change de côté.",
+      "en": "Sitting upright in a chair, rotate to your right, gripping the chair back. Hold 20 seconds. Switch."
+    },
+    "tips": {
+      "fr": "Expire à chaque torsion pour aller plus loin.",
+      "en": "Exhale as you twist to go deeper."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["upper_back", "lower_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "seated-spinal-twist.json"
+  },
+  {
+    "id": "upper-back-opening",
+    "name": { "fr": "Ouverture du dos supérieur", "en": "Upper Back Opening" },
+    "description": {
+      "fr": "Assis sur une chaise, interlace les doigts derrière la tête, ouvre les coudes et penche-toi légèrement en arrière.",
+      "en": "Sitting in a chair, interlace your fingers behind your head, open your elbows and gently lean back."
+    },
+    "tips": {
+      "fr": "Ne force pas la tête en arrière. L'étirement est dans le dos, pas dans le cou.",
+      "en": "Don't push your head back. The stretch is in your back, not your neck."
+    },
+    "duration_seconds": 60,
+    "target_zones": ["upper_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "upper-back-opening.json"
+  },
+  {
+    "id": "childs-pose",
+    "name": { "fr": "Posture de l'enfant", "en": "Child's Pose" },
+    "description": {
+      "fr": "À genoux, assois-toi sur les talons, étends les bras devant toi au sol. Maintiens et respire profondément.",
+      "en": "On your knees, sit back on your heels, extend your arms forward on the floor. Hold and breathe deeply."
+    },
+    "tips": {
+      "fr": "Laisse la gravité travailler. Relâche complètement le dos.",
+      "en": "Let gravity do the work. Completely relax your back."
+    },
+    "duration_seconds": 60,
+    "target_zones": ["lower_back", "upper_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "childs-pose.json"
+  },
+  {
+    "id": "knee-to-chest",
+    "name": { "fr": "Genou vers la poitrine", "en": "Knee-to-Chest Stretch" },
+    "description": {
+      "fr": "Allongé sur le dos, ramène un genou vers la poitrine avec les deux mains. Maintiens 20 secondes. Change de côté.",
+      "en": "Lying on your back, pull one knee toward your chest with both hands. Hold 20 seconds. Switch."
+    },
+    "tips": {
+      "fr": "Garde l'autre jambe allongée au sol ou légèrement fléchie.",
+      "en": "Keep the other leg extended or slightly bent on the floor."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["lower_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "knee-to-chest.json"
+  },
+  {
+    "id": "pelvic-tilts",
+    "name": { "fr": "Bascules pelviennes", "en": "Pelvic Tilts" },
+    "description": {
+      "fr": "Allongé sur le dos, genoux fléchis : aplatit les lombaires contre le sol puis creuse-les. Alterne lentement 10 fois.",
+      "en": "Lying on your back, knees bent: flatten your lower back to the floor then arch it. Alternate slowly 10 times."
+    },
+    "tips": {
+      "fr": "Mouvement subtil — quelques centimètres seulement.",
+      "en": "Subtle movement — only a few centimeters."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["lower_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "pelvic-tilts.json"
+  },
+  {
+    "id": "supine-spinal-twist",
+    "name": { "fr": "Torsion vertébrale allongée", "en": "Supine Spinal Twist" },
+    "description": {
+      "fr": "Allongé sur le dos, ramène le genou droit vers la gauche en gardant les épaules au sol. Maintiens 25 secondes. Change de côté.",
+      "en": "Lying on your back, bring your right knee across to the left while keeping your shoulders on the floor. Hold 25 seconds. Switch."
+    },
+    "tips": {
+      "fr": "Expire pour relâcher davantage dans la torsion.",
+      "en": "Exhale to release deeper into the twist."
+    },
+    "duration_seconds": 60,
+    "target_zones": ["lower_back", "upper_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "supine-spinal-twist.json"
+  },
+  {
+    "id": "standing-forward-fold",
+    "name": { "fr": "Flexion avant debout", "en": "Standing Forward Fold" },
+    "description": {
+      "fr": "Debout, pieds à largeur de hanches, penche-toi en avant et laisse les bras et la tête pendre vers le sol. Maintiens et respire.",
+      "en": "Standing, feet hip-width apart, fold forward and let your arms and head hang toward the floor. Hold and breathe."
+    },
+    "tips": {
+      "fr": "Genoux légèrement fléchis si nécessaire. Ne cherche pas à toucher le sol.",
+      "en": "Knees slightly bent if needed. Don't try to touch the floor."
+    },
+    "duration_seconds": 45,
+    "target_zones": ["lower_back"],
+    "difficulty": "beginner",
+    "phase": 1,
+    "lottie_file": "standing-forward-fold.json"
+  }
+]

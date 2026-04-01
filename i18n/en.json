@@ -1,0 +1,181 @@
+{
+  "onboarding": {
+    "welcome": {
+      "headline": "Your back is suffering.\nLet's fix that.",
+      "subtext": "3 minutes a day. No excuses.",
+      "cta": "Let's Go"
+    },
+    "painZones": {
+      "title": "Where does it hurt?",
+      "subtitle": "Select all zones that bother you",
+      "neck": "Neck",
+      "upperBack": "Upper Back",
+      "shoulders": "Shoulders",
+      "lowerBack": "Lower Back",
+      "cta": "Continue",
+      "error": "Select at least one zone"
+    },
+    "painLevel": {
+      "title": "How bad is the pain?",
+      "subtitle": "This is your starting point. We'll track your progress from here.",
+      "cta": "Continue",
+      "emojis": ["😊", "🙂", "😐", "😕", "😣", "😖", "😫", "😤", "😡", "🤯"]
+    },
+    "timePreference": {
+      "title": "How long can you commit?",
+      "subtitle": "Both programs work. Choose what fits your day.",
+      "option3": "3 minutes",
+      "option3desc": "3 exercises · Quick & effective",
+      "option5": "5 minutes",
+      "option5desc": "3 exercises · Deeper stretches",
+      "cta": "Continue"
+    },
+    "notifications": {
+      "title": "When do you want to stretch?",
+      "subtitle": "We'll remind you every day at this time.",
+      "addLunch": "Also remind me at lunch (1:00 PM)",
+      "addEvening": "Also remind me in the evening (9:00 PM)",
+      "cta": "Set Reminder",
+      "skip": "Skip for now"
+    },
+    "commit": {
+      "title": "Commit.",
+      "disclaimer": "PostureFix is not a substitute for medical advice. Consult a healthcare professional before starting any exercise program. If you experience intense or chronic pain, stop immediately and consult a doctor.",
+      "commitText": "I commit to taking care of my back every day.",
+      "cta": "I Commit"
+    }
+  },
+  "home": {
+    "greeting": "Day {{count}}",
+    "greetingFire": "🔥",
+    "noStreak": "Day 1",
+    "routineTitle": "Today's Routine",
+    "startCta": "Start Routine",
+    "completedTitle": "Routine Complete ✓",
+    "completedSubtext": "Come back tomorrow.",
+    "missedBanner": "You missed yesterday. Your back won't wait.",
+    "painTrend": "Pain trend (7 days)",
+    "notStarted": "Not started"
+  },
+  "routine": {
+    "exercise": "Exercise {{current}} of {{total}}",
+    "pause": "Pause",
+      "pauseTitle": "Paused",
+    "pauseMessage": "Taking a break?",
+    "resumeCta": "Resume",
+    "quitCta": "Quit Routine",
+    "restMessage": "Rest. Breathe deeply.",
+    "restSeconds": "seconds",
+    "givingUp": "Giving up?",
+    "next": "Next exercise",
+    "complete": "Done"
+  },
+  "painCheck": {
+    "title": "How's your back now?",
+    "subtitle": "Rate your pain after the routine",
+    "cta": "Continue"
+  },
+  "complete": {
+    "title": "Routine Complete ✓",
+    "streak": "🔥 {{count}} days in a row",
+    "improved": "Your back is improving. Keep going.",
+    "same": "Consistency is progress. See you tomorrow.",
+    "worse": "Pain varies day to day. Keep showing up.",
+    "share": "Share",
+    "done": "Done"
+  },
+  "progress": {
+    "title": "Your Progress",
+    "painChart": "Pain Evolution",
+    "painReduced": "Pain reduced {{percent}}% since you started",
+    "noPainData": "Complete routines to see your pain trend",
+    "streak": "Streak",
+    "currentStreak": "Current",
+    "longestStreak": "Longest",
+    "stats": "Stats",
+    "totalSessions": "Total Sessions",
+    "totalMinutes": "Minutes Stretched",
+    "backScore": "Back Health Score",
+    "backScoreDesc": "Based on consistency and pain improvement",
+    "days": "days"
+  },
+  "settings": {
+    "title": "Settings",
+    "notifications": "Notifications",
+    "dailyReminder": "Daily Reminder",
+    "lunchReminder": "Lunch Reminder (1:00 PM)",
+    "eveningReminder": "Evening Reminder (9:00 PM)",
+    "strictMode": "Strict Mode",
+    "strictModeDesc": "More frequent reminders with a firm tone",
+    "strictModePremium": "Premium feature",
+    "preferences": "Preferences",
+    "sounds": "Sound Effects",
+    "haptics": "Haptic Feedback",
+    "language": "Language",
+    "painZones": "Pain Zones",
+    "subscription": "Subscription",
+    "manageSub": "Manage Subscription",
+    "about": "About",
+    "disclaimer": "Medical Disclaimer",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rateApp": "Rate PostureFix",
+    "shareApp": "Share with a Friend",
+    "version": "Version {{version}}"
+  },
+  "paywall": {
+    "title": "Don't lose your progress.",
+    "progressLabel": "Pain reduced {{percent}}% in {{days}} days",
+    "streakLabel": "Your {{streak}}-day streak",
+    "featureTitle": "Everything you need to fix your back",
+    "features": [
+      "Unlimited daily routines",
+      "Personalized program evolution",
+      "Full progress analytics",
+      "Strict Mode reminders",
+      "Morning + evening routines",
+      "Phase-based progression"
+    ],
+    "weeklyLabel": "Weekly",
+    "monthlyLabel": "Monthly",
+    "annualLabel": "Annual",
+    "annualSave": "Save 58%",
+    "cta": "Continue Healing",
+    "cancel": "Cancel anytime",
+    "restore": "Restore Purchase",
+    "free": "Free",
+    "freeFeatures": ["5 days full access", "Basic pain tracking", "Standard notifications"]
+  },
+  "notifications": {
+    "dailyTitle": "Time to stretch.",
+    "dailyBody": "3 minutes for your back.",
+    "missedTitle": "You haven't done your routine yet.",
+    "missedBody": "Your back is waiting.",
+    "endOfDayTitle": "Last chance.",
+    "endOfDayBody": "Your back won't improve on its own.",
+    "streakLostTitle": "You broke your streak.",
+    "streakLostBody": "You had {{count}} days. Start again today.",
+    "milestoneTitle": "🔥 {{count}} days!",
+    "milestoneBody": "Your back is thanking you.",
+    "reengageTitle": "It's been {{count}} days.",
+    "reengageBody": "Your back is getting worse while you wait."
+  },
+  "disclaimer": {
+    "title": "Medical Disclaimer",
+    "text": "PostureFix is not a substitute for medical advice. Consult a healthcare professional before starting any exercise program. If you experience intense or chronic pain, stop immediately and consult a doctor."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip",
+    "save": "Save",
+    "done": "Done",
+    "premium": "Premium",
+    "upgrade": "Upgrade"
+  }
+}
